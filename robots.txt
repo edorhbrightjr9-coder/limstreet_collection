@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edorhbrightjr9-coder.github.io/limstreet-collection/sitemap.xml
